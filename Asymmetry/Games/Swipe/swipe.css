@@ -157,6 +157,9 @@ aside {
   #swipeBtn{
     font-size: 10vw;
   }
+  .buttons{
+    justify-content: space-evenly;
+  }
   .lineThree {
     display: none;
   }
