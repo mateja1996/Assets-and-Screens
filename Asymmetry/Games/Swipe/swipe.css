@@ -101,7 +101,7 @@ aside {
   display: flex;
   flex-direction: row;
   width: 100%;
-  justify-content: space-evenly;
+  justify-content: space-between;
  
 }
 .swipeButtons{
@@ -115,7 +115,7 @@ aside {
   background-color: rgba(0, 142, 153);
   border: none;
   color: #ffffffe0;
-  padding: 25px 5vw;
+  padding: 2vw 6vw;
   text-align: center;
   font-size: 1.2rem;
   box-shadow: 0 0 10px #f2f2f2;
@@ -125,7 +125,7 @@ aside {
 #swipeBtn{
   color: rgba(0, 142, 153);
   border: none;
-  font-size: 4vw;
+  font-size: 4rem;
   transform: scaleY(1.7);
   background-color: rgba(0, 142, 153, 0);
 
